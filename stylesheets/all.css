@@ -19,7 +19,7 @@ nav li{
 	    margin: 0 13px;
 }
 #intro .jumbotron{
-  background: url('透明.png');  
+  background: '透明.png';  
   background-size: cover;  
     background-repeat: no-repeat; 
     background-position: 50%; 
